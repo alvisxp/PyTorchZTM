@@ -1,2 +1,2 @@
 # PyTorchZTM
-My PyTorch Notebooks from the ZTM PyTorch Course
+This repo contains my notebooks and excerise files from the [ZeroToMastery Learn PyTorch for Deep Learning Course](https://zerotomastery.io/courses/learn-pytorch/)
